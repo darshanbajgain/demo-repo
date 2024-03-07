@@ -36,5 +36,8 @@ To run the calculator GUI:
 - Click the clear button to reset the calculator.
 - The delete button removes the last entered digit.
 
+## Output
+![Calculator GUI](./outputs/img.png)
+
 ## Author
     Darshan Bajgain
